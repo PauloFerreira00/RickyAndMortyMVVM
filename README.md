@@ -1,2 +1,4 @@
 # RickyAndMortyMVVM
-Architecture: MVVM - Technologies: RxSwift, Flow Coordinators and Moya
+IOS App
+Architecture: MVVM 
+Technologies: RxSwift, Flow Coordinators and Moya
